@@ -1,10 +1,8 @@
----
-
 # 📦 Demand Forecasting with Holt-Winters Seasonal Model
 
-This project applies **time series forecasting techniques** to predict weekly demand (`units_sold`) for various SKUs across multiple stores. The focus is on understanding historical demand patterns, identifying seasonality, and using classical forecasting models to generate accurate short-term predictions.
+This project applies **Time Series Forecasting Techniques** to predict weekly demand (`units_sold`) for various SKUs across multiple stores. The focus is on understanding historical demand patterns, identifying seasonality, and using classical forecasting models to generate accurate short-term predictions.
 
-> 🔍 **Goal**: To forecast SKU-level weekly demand using the Holt-Winters additive model and evaluate its performance on unseen data.
+🔍 **Goal**: To forecast SKU-level weekly demand using the Holt-Winters additive model and evaluate its performance on unseen data.
 
 ---
 
